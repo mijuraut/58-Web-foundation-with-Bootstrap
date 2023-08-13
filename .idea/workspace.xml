@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b84ca5ed-15a7-43b6-a4a4-5ac6ca5caeb6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682506630522</updated>
-      <workItem from="1682506631704" duration="2241000" />
+      <workItem from="1682506631704" duration="3480000" />
+      <workItem from="1691906493183" duration="571000" />
     </task>
     <task id="LOCAL−00001" summary="Added card.">
       <created>1682507698211</created>
@@ -67,21 +67,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added card." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="729" y="339" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1682509599611">
+    <state x="899" y="475" key="com.intellij.ide.util.TipDialog" timestamp="1691906494942">
       <screen x="0" y="0" width="2560" height="1392" />
     </state>
-    <state x="729" y="339" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.0.2560.1392/0.0.2560.1392/2560.0.2560.1440@0.0.2560.1392" timestamp="1682509599611" />
-    <state x="433" y="197" width="1880" height="957" key="CommitChangelistDialog2" timestamp="1682507697932">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state x="433" y="197" width="1880" height="957" key="CommitChangelistDialog2/-2560.0.2560.1392/0.0.2560.1392/2560.0.2560.1440@0.0.2560.1392" timestamp="1682507697932" />
-    <state x="664" y="236" key="SettingsEditor" timestamp="1682507623523">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state x="664" y="236" key="SettingsEditor/-2560.0.2560.1392/0.0.2560.1392/2560.0.2560.1440@0.0.2560.1392" timestamp="1682507623523" />
-    <state x="771" y="361" key="Vcs.Push.Dialog.v2" timestamp="1682507710936">
-      <screen x="0" y="0" width="2560" height="1392" />
-    </state>
-    <state x="771" y="361" key="Vcs.Push.Dialog.v2/-2560.0.2560.1392/0.0.2560.1392/2560.0.2560.1440@0.0.2560.1392" timestamp="1682507710936" />
+    <state x="899" y="475" key="com.intellij.ide.util.TipDialog/-2560.0.2560.1392/0.0.2560.1392/2560.0.2560.1440@0.0.2560.1392" timestamp="1691906494942" />
   </component>
 </project>
